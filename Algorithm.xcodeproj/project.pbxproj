@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E3B599F28833C9F00F6B908 /* 2745_진법 변환.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE27CBF2865AAD000FDB697 /* 2745_진법 변환.swift */; };
 		6EE27CC22866073B00FDB697 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE27CB72865A21F00FDB697 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -65,19 +66,10 @@
 		6EE27CB62865A21F00FDB697 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				6EFE392B28833CF30046BBA6 /* BOJ */,
 				6EE27CC32866276500FDB697 /* Programmers */,
-				6EE27CBE2865AA1800FDB697 /* BOJ */,
 			);
 			path = Algorithm;
-			sourceTree = "<group>";
-		};
-		6EE27CBE2865AA1800FDB697 /* BOJ */ = {
-			isa = PBXGroup;
-			children = (
-				6EE27CBF2865AAD000FDB697 /* 2745_진법 변환.swift */,
-			);
-			name = BOJ;
-			path = "백준";
 			sourceTree = "<group>";
 		};
 		6EE27CC32866276500FDB697 /* Programmers */ = {
@@ -93,6 +85,14 @@
 				6EE27CC4286627D100FDB697 /* Lv1 - 신규 아이디 추천.swift */,
 			);
 			path = Programmers;
+			sourceTree = "<group>";
+		};
+		6EFE392B28833CF30046BBA6 /* BOJ */ = {
+			isa = PBXGroup;
+			children = (
+				6EE27CBF2865AAD000FDB697 /* 2745_진법 변환.swift */,
+			);
+			path = BOJ;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -153,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E3B599F28833C9F00F6B908 /* 2745_진법 변환.swift in Sources */,
 				6EE27CC22866073B00FDB697 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
