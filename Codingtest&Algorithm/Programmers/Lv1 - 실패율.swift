@@ -1,6 +1,6 @@
 import Foundation
 
-// 5,9,13,22 시간 초과로 실패
+// 5,9,13,22 시간 초과로 실패.
 
 func solution(_ N:Int, _ stages:[Int]) -> [Int]
 {
