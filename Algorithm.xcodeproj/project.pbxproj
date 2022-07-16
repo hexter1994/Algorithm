@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6EE27CB42865A21F00FDB697 /* Codingtest&Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Codingtest&Algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EE27CB42865A21F00FDB697 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE27CB72865A21F00FDB697 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		6EE27CBF2865AAD000FDB697 /* 2745_진법 변환.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2745_진법 변환.swift"; sourceTree = "<group>"; };
 		6EE27CC4286627D100FDB697 /* Lv1 - 신규 아이디 추천.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1 - 신규 아이디 추천.swift"; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		6EE27CAB2865A21E00FDB697 = {
 			isa = PBXGroup;
 			children = (
-				6EE27CB62865A21F00FDB697 /* Codingtest&Algorithm */,
+				6EE27CB62865A21F00FDB697 /* Algorithm */,
 				6EE27CB52865A21F00FDB697 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,18 +57,18 @@
 		6EE27CB52865A21F00FDB697 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6EE27CB42865A21F00FDB697 /* Codingtest&Algorithm */,
+				6EE27CB42865A21F00FDB697 /* Algorithm */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6EE27CB62865A21F00FDB697 /* Codingtest&Algorithm */ = {
+		6EE27CB62865A21F00FDB697 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
 				6EE27CC32866276500FDB697 /* Programmers */,
 				6EE27CBE2865AA1800FDB697 /* BOJ */,
 			);
-			path = "Codingtest&Algorithm";
+			path = Algorithm;
 			sourceTree = "<group>";
 		};
 		6EE27CBE2865AA1800FDB697 /* BOJ */ = {
@@ -98,9 +98,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6EE27CB32865A21F00FDB697 /* Codingtest&Algorithm */ = {
+		6EE27CB32865A21F00FDB697 /* Algorithm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6EE27CBB2865A21F00FDB697 /* Build configuration list for PBXNativeTarget "Codingtest&Algorithm" */;
+			buildConfigurationList = 6EE27CBB2865A21F00FDB697 /* Build configuration list for PBXNativeTarget "Algorithm" */;
 			buildPhases = (
 				6EE27CB02865A21F00FDB697 /* Sources */,
 				6EE27CB12865A21F00FDB697 /* Frameworks */,
@@ -110,9 +110,9 @@
 			);
 			dependencies = (
 			);
-			name = "Codingtest&Algorithm";
+			name = Algorithm;
 			productName = "Codingtest&Algorithm";
-			productReference = 6EE27CB42865A21F00FDB697 /* Codingtest&Algorithm */;
+			productReference = 6EE27CB42865A21F00FDB697 /* Algorithm */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -130,7 +130,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6EE27CAF2865A21E00FDB697 /* Build configuration list for PBXProject "Codingtest&Algorithm" */;
+			buildConfigurationList = 6EE27CAF2865A21E00FDB697 /* Build configuration list for PBXProject "Algorithm" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -143,7 +143,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6EE27CB32865A21F00FDB697 /* Codingtest&Algorithm */,
+				6EE27CB32865A21F00FDB697 /* Algorithm */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6EE27CAF2865A21E00FDB697 /* Build configuration list for PBXProject "Codingtest&Algorithm" */ = {
+		6EE27CAF2865A21E00FDB697 /* Build configuration list for PBXProject "Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6EE27CB92865A21F00FDB697 /* Debug */,
@@ -303,7 +303,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6EE27CBB2865A21F00FDB697 /* Build configuration list for PBXNativeTarget "Codingtest&Algorithm" */ = {
+		6EE27CBB2865A21F00FDB697 /* Build configuration list for PBXNativeTarget "Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6EE27CBC2865A21F00FDB697 /* Debug */,
